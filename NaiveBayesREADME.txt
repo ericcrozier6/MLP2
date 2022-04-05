@@ -1,4 +1,4 @@
-Naive Bayes README:
+Naive Bayes by Eric Crozier:
 
 The naive bayes code performs classifications on datasets, of which label they belong to.
 
